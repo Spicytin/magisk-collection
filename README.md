@@ -6,7 +6,7 @@ Part of Pixelify submodule. Unlocks unlimited original backup by spoofing your d
 ### [PixelXpert](https://github.com/siavash79/PixelXpert)
 Allow customizations that are not originally designed in AOSP (Android Open Source Project).
 ### [PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
-Attempts to fix Play Integrity verdicts to get a certified device on bootloader unlocked devices. Allows accessing banking apps and other security protected apps with root.
+Attempts to fix Play Integrity verdicts to get a certified device on bootloader unlocked devices, allowing access to banking apps and other security protected apps with root.
 ### [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
 Zygisk module to hide Magisk root, Zygisk itself and Zygisk modules like riru hide.
 ### [Simple Bootloop Saver](https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver)
@@ -23,8 +23,6 @@ Magisk version. Patches YouTube with ReVanced features like adblock.
 Zygisk module that is enhanced implementation of Xposed framework.
 ### [Detach](https://github.com/j-hc/zygisk-detach)
 Detaches installed apps from Play Store. Requires Zygisk and terminal app such as Termux.
-### [xmlpak](https://github.com/Magisk-Modules-Repo/xmlpak)
-Install vendor apps from Google Play.
 
 ## Root Apps
 ### [Termux](https://github.com/termux/termux-app)
