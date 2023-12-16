@@ -1,8 +1,8 @@
 ## Magisk Modules 
 ### [Pixelify](https://github.com/Kingsman44/Pixelify)
 Enables Pixel UI and some exclusive features.
-### [Google Photos Features & Unlimited Backup](https://www.pling.com/p/2004615/)
-Part of Pixelify submodule. Unlocks unlimited original backup by spoofing your device.
+
+You can download their submodules [here](https://www.pling.com/p/2004615/), in case if you don't want to use the main Pixelify module (assuming you have a Pixel phone or custom ROM with most/some of these features), or if its not functioning properly, or is too big for your phone. It includes GPhotos unlimited backup, Call screening, etc.
 ### [PixelXpert](https://github.com/siavash79/PixelXpert)
 Allow customizations that are not originally designed in AOSP (Android Open Source Project).
 ### [PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
