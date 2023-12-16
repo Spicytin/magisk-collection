@@ -11,6 +11,8 @@ Attempts to fix Play Integrity verdicts to get a certified device on bootloader 
 Zygisk module to hide Magisk root, Zygisk itself and Zygisk modules like riru hide.
 ### [Simple Bootloop Saver](https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver)
 Disables all modules after 3 bootloops. Highly recommended in case anything goes wrong.
+
+[Instruction of how to install this module properly](https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/issues/4#issuecomment-1848453159)
 ### [Universal GMS Doze](https://github.com/gloeyisk/universal-gms-doze)
 Patches Google Play services app and certain processes/services to be able to use battery optimization.
 ### [YAKT](https://github.com/NotZeetaa/YAKT)
