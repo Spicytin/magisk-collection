@@ -5,8 +5,8 @@ Enables Pixel UI and some exclusive features.
 You can download their submodules [here](https://www.pling.com/p/2004615/), in case if you don't want to use the main Pixelify module (assuming you have a Pixel phone or custom ROM with most/some of these features), or if its not functioning properly, or is too big for your phone. It includes GPhotos unlimited backup, Call screening, etc.
 ### [PixelXpert](https://github.com/siavash79/PixelXpert)
 Allow customizations that are not originally designed in AOSP (Android Open Source Project).
-### [PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
-Attempts to fix Play Integrity verdicts to get a certified device on bootloader unlocked devices, allowing access to banking apps and other security protected apps with root.
+### [PlayIntegrityNEXT](https://github.com/daboynb/PlayIntegrityNEXT)
+Fork of PlayIntegrityFix. Attempts to fix Play Integrity verdicts to get a certified device on bootloader unlocked devices, allowing access to banking apps and other security protected apps with root.
 ### [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
 Zygisk module to hide Magisk root, Zygisk itself and Zygisk modules like riru hide.
 ### [Simple Bootloop Saver](https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver)
