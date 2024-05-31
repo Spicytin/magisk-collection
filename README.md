@@ -44,5 +44,5 @@ Open source ad blocker for Android using the hosts file and local vpn.
 Backup your important data.
 ### [Amarok]( https://github.com/deltazefiro/Amarok-Hider )
 Hide your private files & apps with a single click.
-### [VendettaXposed](https://github.com/vendetta-mod/Vendetta)
-Xposed module to inject Vendetta, a mod for Discord's mobile apps.
+### [Bunny](https://github.com/pyoncord/Bunny)
+Xposed module to inject Bunny (based on Vendetta), a mod for Discord's mobile apps.
