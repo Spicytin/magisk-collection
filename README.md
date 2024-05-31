@@ -2,7 +2,10 @@
 ### [Pixelify](https://github.com/Kingsman44/Pixelify)
 Enables Pixel UI and some exclusive features.
 
-You can download their submodules [here](https://www.pling.com/p/2004615/), in case if you don't want to use the main Pixelify module (assuming you have a Pixel phone or custom ROM with most/some of these features), or if its not functioning properly, or is too big for your phone. It includes GPhotos unlimited backup, Call screening, etc.
+You can download their submodules [here](https://www.pling.com/p/2004615/) if you don't want to use the main Pixelify module (assuming you have a Pixel phone or custom ROM with most/some of these features included already), or if its not functioning properly, or is too big for your phone. It has GPhotos unlimited backup module, Call screening module, etc.
+
+### [JamesDSP Manager](https://github.com/james34602/JamesDSPManager)
+
 ### [PixelXpert](https://github.com/siavash79/PixelXpert)
 Allow customizations that are not originally designed in AOSP (Android Open Source Project).
 ### [PlayIntegrityNEXT](https://github.com/daboynb/PlayIntegrityNEXT)
